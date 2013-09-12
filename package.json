@@ -2,7 +2,7 @@
     "name": "popcorn",
     "version": "0.0.2",
     "dependencies": {
-        "montage" : "0.13.0-alpha",
+        "montage": "git+ssh://git@github.com:cesine/montage.git#androidWebViews",
         "matte": "0.1.1-alpha"
     },
     "bundle": ["ui/main.reel"],
